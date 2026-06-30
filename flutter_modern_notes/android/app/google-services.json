@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "906940439034",
+    "firebase_url": "https://new2modernnotes-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "new2modernnotes",
+    "storage_bucket": "new2modernnotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906940439034:android:bbf5da417902ff96786c43",
+        "android_client_info": {
+          "package_name": "com.example.new2modernnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906940439034-85sh0nc5mc59oftauv6mraedon767hv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new2modernnotes",
+            "certificate_hash": "f5cbae003bf5d6013bdfa59f469c68943834d6a4"
+          }
+        },
+        {
+          "client_id": "906940439034-g5ukptq6gvtnrhvcuva45atpulr2relh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new2modernnotes",
+            "certificate_hash": "6e3f49a330f8f7450cd99daf655d255dc373eb0d"
+          }
+        },
+        {
+          "client_id": "906940439034-oqv51an75i8cths3chr8nrac4ajlt45l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new2modernnotes",
+            "certificate_hash": "e236c87372b26bfa47d8f362cbde5950e41f1fff"
+          }
+        },
+        {
+          "client_id": "906940439034-rsi1qubg58j4dlf29oe0t48ng92che94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXDuwTl2Frzr4CMePLMYuzMCKYDyUT1mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906940439034-rsi1qubg58j4dlf29oe0t48ng92che94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
